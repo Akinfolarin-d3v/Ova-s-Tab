@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Ova's Tab",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "pngtree-vector-copy-icon-png-image_695762.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
